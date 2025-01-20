@@ -5,9 +5,7 @@ The **Job Finding Web Application** is a robust, user-friendly platform designed
 
 ## Features
 - **User Authentication**: Secure login and registration functionality using encrypted credentials.
-- **Job Search**: Advanced search options allowing users to filter jobs by keyword, location, or category.
 - **Job Listings**: Dynamically rendered job postings fetched from the backend.
-- **Save Jobs**: Users can bookmark their preferred jobs for easy access later.
 - **Responsive Design**: Ensures optimal viewing and interaction experience across devices.
 - **Backend Integration**: Handles database operations and ensures smooth data flow between the client and server.
 
